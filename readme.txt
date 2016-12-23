@@ -5,3 +5,4 @@ master add
 dev1 add
 dev2 add bug irepair
 fixbug-0.2 add
+master/dev add
